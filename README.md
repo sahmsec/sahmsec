@@ -25,7 +25,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🚀 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://sahmsec.online">
@@ -56,7 +56,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript"/>
@@ -76,7 +76,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🔐 Security Expertise
+##  Security Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Pentesting-Active-critical?style=for-the-badge"/>
@@ -87,7 +87,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🧩 Talking About Personal Stuff
+##  Talking About Personal Stuff
 
 - 🛠 Working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
 - 🚀 Exploring **Golang, Blockchain, Rust, Solidity, Solana**
@@ -95,7 +95,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🎯 Interests
+##  Interests
 
 - 💻 Building scalable systems & learning new technologies  
 - 🧠 Solving complex engineering problems  
@@ -112,7 +112,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🔥 Current Focus
+##  Current Focus
 
 - 🔐 Building **secure production-grade applications**
 - 🧪 Practicing **real-world vulnerability testing**
@@ -120,13 +120,13 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 💡 Dev Philosophy
+##  Dev Philosophy
 
 > "Great developers don’t just build features — they build secure, scalable systems."
 
 ---
 
-## 🧑‍💻 Code Snapshot
+##  Code Snapshot
 
 ```javascript
 const sakibAhmed = {
