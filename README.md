@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6cf7356b-9c54-452b-aae3-cbf895223353" 
        alt="Sakib Ahmed Banner" 
-       width="100%" />
+       width="100%" height="70%" />
 </p>
 
 <!-- Typing Animation -->
