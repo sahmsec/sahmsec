@@ -21,7 +21,7 @@
 Full-Stack Developer 💻 | Web Application Pentester 🔐
 </h3>
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
 
 ---
 
