@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cf7356b-9c54-452b-aae3-cbf895223353" 
-       alt="Sakib Ahmed Banner" 
-       width="100%" height="70%" />
+  <img width="1536" height="582" alt="readme" src="https://github.com/user-attachments/assets/045d3977-3733-4e49-9cf0-aec94a5a903c"  alt="Sakib Ahmed Banner" 
+       width="100%" />
 </p>
 
 <!-- Typing Animation -->
