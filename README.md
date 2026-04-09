@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Sakib Ahmed Banner" />
+  <img width="1536" height="1024" alt="readme" src="https://github.com/user-attachments/assets/6cf7356b-9c54-452b-aae3-cbf895223353" alt="Sakib Ahmed Banner" />
 </p>
 
 <!-- Profile Views -->
