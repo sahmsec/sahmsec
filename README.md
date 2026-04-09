@@ -1,7 +1,8 @@
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahmsec&style=for-the-badge&color=0e75b6" />
+  <img width="1487" height="565" alt="banner" src="https://github.com/user-attachments/assets/ee8e427d-240b-4e1a-9158-51e36c5370ec" />
 </p>
+
 
 <!-- Banner -->
 <p align="center">
