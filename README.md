@@ -17,7 +17,7 @@
 <h1 align="center">Sakib Ahmed (sahmsec)</h1>
 
 <h3 align="center">
-Full-Stack Developer 💻 | Web Application Pentester 🔐
+Full-Stack Developer  | Web Application Pentester 
 </h3>
 
 
@@ -49,9 +49,9 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 ##  About Me
 
 -  Building **scalable full-stack web applications**
-- 🔐 Focused on **web application security & penetration testing**
-- 📢 Sharing insights on **development & cybersecurity**
-- ⚡ I don’t just build apps — I **secure them**
+-  Focused on **web application security & penetration testing**
+-  Sharing insights on **development & cybersecurity**
+-  I don’t just build apps — I **secure them**
 
 ---
 
@@ -88,17 +88,17 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ##  Talking About Personal Stuff
 
-- 🛠 Working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
-- 🚀 Exploring **Golang, Blockchain, Rust, Solidity, Solana**
-- 📫 Reach me at: **YOUR_EMAIL**
+-  Working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
+-  Exploring **Golang, Blockchain, Rust, Solidity, Solana**
+-  Reach me at: **YOUR_EMAIL**
 
 ---
 
 ##  Interests
 
-- 💻 Building scalable systems & learning new technologies  
-- 🧠 Solving complex engineering problems  
-- 🤝 Tech communities, meetups & hackathons  
+-  Building scalable systems & learning new technologies  
+-  Solving complex engineering problems  
+-  Tech communities, meetups & hackathons  
 
 ---
 
@@ -113,9 +113,9 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ##  Current Focus
 
-- 🔐 Building **secure production-grade applications**
-- 🧪 Practicing **real-world vulnerability testing**
-- 📈 Growing as a **developer & security expert**
+-  Building **secure production-grade applications**
+-  Practicing **real-world vulnerability testing**
+-  Growing as a **developer & security expert**
 
 ---
 
