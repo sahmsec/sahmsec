@@ -47,7 +47,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🛠 Building **scalable full-stack web applications**
 - 🔐 Focused on **web application security & penetration testing**
@@ -103,7 +103,7 @@ Full-Stack Developer 💻 | Web Application Pentester 🔐
 
 ---
 
-## 🏗 Architecture & Expertise
+##  Architecture & Expertise
 
 - Microservices Architecture  
 - Event-Driven Systems  
