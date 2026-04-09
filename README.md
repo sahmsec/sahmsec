@@ -7,19 +7,18 @@
 </h1>
 
 <h3 align="center">
-Full-Stack Developer 💻 | Cybersecurity Instructor 🔐 | Web Application Pentester
+Full-Stack Developer 💻 | Web Application Pentester 🔐
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Web+Apps;Securing+Applications+🔐;Full+Stack+%2B+Security+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Web+Apps;Full+Stack+Web+Developer;Security+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
-  <p align="center">
   <a href="https://sahmsec.online">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome"/>
   </a>
@@ -36,21 +35,19 @@ Full-Stack Developer 💻 | Cybersecurity Instructor 🔐 | Web Application Pent
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-</p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🛠 Building **scalable full-stack web applications**
 - 🔐 Focused on **web application security & penetration testing**
-- 🚀 Exploring **advanced exploitation, secure architecture & modern backend systems**
 - 📢 Sharing insights on **development & cybersecurity**
 - ⚡ I don’t just build apps — I **secure them**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript"/>
@@ -66,7 +63,7 @@ Full-Stack Developer 💻 | Cybersecurity Instructor 🔐 | Web Application Pent
 
 ---
 
-## 🛡️ Security Expertise
+##  Security Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Pentesting-Active-critical?style=for-the-badge"/>
@@ -77,7 +74,23 @@ Full-Stack Developer 💻 | Cybersecurity Instructor 🔐 | Web Application Pent
 
 ---
 
-## 🧱 Architecture & Expertise
+##  Talking About Personal Stuff
+
+- 🛠 I’m currently working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
+- 🚀 I’m currently exploring **Golang, Blockchain, Rust, Solidity, Solana**
+- 📫 Reach me at: **YOUR_EMAIL**
+
+---
+
+##  Interests
+
+- 💻 Continuously learning new technologies & building scalable solutions  
+- 🧠 Solving complex problems & improving system design  
+- 🤝 Engaging in meetups, tech events & hackathons  
+
+---
+
+##  Architecture & Expertise
 
 - Microservices Architecture  
 - Event-Driven Systems  
@@ -86,22 +99,15 @@ Full-Stack Developer 💻 | Cybersecurity Instructor 🔐 | Web Application Pent
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - 🔐 Building **secure production-grade applications**
 - 🧪 Practicing **real-world vulnerability testing**
-- 📈 Growing as a **developer + security expert**
+- 📈 Growing as a **developer & security expert**
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahmsec&show_icons=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahmsec&theme=default"/>
-</p>
-
----
 
 ## 💡 Dev Philosophy
 
@@ -114,7 +120,7 @@ Full-Stack Developer 💻 | Cybersecurity Instructor 🔐 | Web Application Pent
 ```javascript
 const sakibAhmed = {
   alias: "sahmsec",
-  role: "Full Stack Developer & Cybersecurity Instructor",
+  role: "Full Stack Developer & pentester",
   stack: ["MERN", "Next.js", "PostgreSQL"],
   security: ["Pentesting", "OWASP", "Secure Coding"],
   architecture: ["Microservices", "Event-Driven Systems"],
