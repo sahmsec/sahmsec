@@ -36,10 +36,10 @@ Full-Stack Developer  | Web Application Pentester
   <a href="https://www.facebook.com/sahmsec/">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
-  <a href="YOUR_TWITTER">
+  <a href="https://x.com/sahmsec_">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sakib.prf@gmai.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
