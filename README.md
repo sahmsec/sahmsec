@@ -1,6 +1,7 @@
 <!-- Profile Views -->
 
-<p align="left"><img width="1487" height="565" alt="3425345234" src="https://github.com/user-attachments/assets/edae81e8-e105-45e2-a120-e8fd735d323a" /></p>
+<p align="left"><img width="1487" height="565" alt="3523623452345 (2)" src="https://github.com/user-attachments/assets/ba5669fb-c734-4ec3-a597-c12effa5682c" />
+</p>
 
 
 
