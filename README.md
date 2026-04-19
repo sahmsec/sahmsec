@@ -1,5 +1,7 @@
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahmsec&label=Profile%20views&color=0e75b6&style=flat" alt="sahmsec" /> </p>
+
+<p align="left"><img width="1487" height="565" alt="3425345234" src="https://github.com/user-attachments/assets/edae81e8-e105-45e2-a120-e8fd735d323a" /></p>
+
 
 
 <!-- Banner -->
