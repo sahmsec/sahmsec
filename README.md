@@ -4,7 +4,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img width="1487" height="565" alt="banner" src="https://github.com/user-attachments/assets/ba5669fb-c734-4ec3-a597-c12effa5682c" alt="Sakib Ahmed Banner" 
+  
+  <img width="1487" height="565" alt="image" src="https://github.com/user-attachments/assets/fd8de4f5-f848-4017-8186-18048ff4a647" alt="Sakib Ahmed Banner" 
        width="100%" />
 </p>
 
