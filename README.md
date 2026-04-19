@@ -1,13 +1,10 @@
+
 <!-- Profile Views -->
-
-<p align="left"><img width="1487" height="565" alt="3523623452345 (2)" src="https://github.com/user-attachments/assets/ba5669fb-c734-4ec3-a597-c12effa5682c" />
-</p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahmsec&label=Profile%20views&color=0e75b6&style=flat" alt="sahmsec" /> </p>
 
 <!-- Banner -->
 <p align="center">
-  <img width="1487" height="565" alt="banner" src="https://github.com/user-attachments/assets/ee8e427d-240b-4e1a-9158-51e36c5370ec" alt="Sakib Ahmed Banner" 
+  <img width="1487" height="565" alt="banner" src="https://github.com/user-attachments/assets/ba5669fb-c734-4ec3-a597-c12effa5682c" alt="Sakib Ahmed Banner" 
        width="100%" />
 </p>
 
