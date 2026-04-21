@@ -5,7 +5,7 @@
 <!-- Banner -->
 <p align="center">
   
-  <img width="1487" height="565" alt="image" src="https://github.com/user-attachments/assets/0e120827-6bf9-4619-9556-af1ea2e779c7" alt="Sakib Ahmed Banner" 
+  <img width="1487" height="565" alt="image" src="https://github.com/user-attachments/assets/39980822-e008-4b7a-84b7-3d50afbe373c" alt="Sakib Ahmed Banner" 
        width="100%" />
 </p>
 
