@@ -3,9 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  
-  <img width="1487" height="565" alt="image" src="https://github.com/user-attachments/assets/39980822-e008-4b7a-84b7-3d50afbe373c" alt="Sakib Ahmed Banner" 
-       width="100%" />
+  <img width="1487" height="565" src="https://github.com/user-attachments/assets/39980822-e008-4b7a-84b7-3d50afbe373c" alt="Sakib Ahmed Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
@@ -13,11 +11,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0070b8&size=26&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sakib+Ahmed;Full+Stack+Developer;Web+App+Pentester" />
 </p>
 
-
 <h1 align="center">Sakib Ahmed (sahmsec)</h1>
 
 <h3 align="center">
-Full-Stack Developer  | Web Application Pentester 
+Full-Stack Developer | Web Application Pentester
 </h3>
 
 ---
@@ -46,10 +43,10 @@ Full-Stack Developer  | Web Application Pentester
 
 ## About Me
 
--  Building **scalable full-stack web applications**
--  Focused on **web application security & penetration testing**
--  Sharing insights on **development & cybersecurity**
--  I don’t just build apps — I **secure them**
+- Building **scalable full-stack web applications**
+- Focused on **web application security & penetration testing**
+- Sharing insights on **development & cybersecurity**
+- I don’t just build apps — I **secure them**
 
 ---
 
@@ -64,27 +61,25 @@ Full-Stack Developer  | Web Application Pentester
 ## Security Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Pentesting-critical?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Secure_Coding-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,github" />
+  <img src="https://cdn.simpleicons.org/burpsuite" width="48" />
 </p>
 
 ---
 
 ## Talking About Personal Stuff
 
--  Working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
--  Exploring **Golang, Blockchain, Rust, Solidity, Solana**
--  Reach me at: **sakib.prf@gmail.com**
+- Working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
+- Exploring **Golang, Blockchain, Rust, Solidity, Solana**
+- Reach me at: **sakib.prf@gmail.com**
 
 ---
 
 ## Interests
 
--  Building scalable systems & learning new technologies  
--  Solving complex engineering problems  
--  Tech communities, meetups & hackathons  
+- Building scalable systems & learning new technologies  
+- Solving complex engineering problems  
+- Tech communities, meetups & hackathons  
 
 ---
 
@@ -99,9 +94,9 @@ Full-Stack Developer  | Web Application Pentester
 
 ## Current Focus
 
--  Building **secure production-grade applications**
--  Practicing **real-world vulnerability testing**
--  Growing as a **developer & security expert**
+- Building **secure production-grade applications**
+- Practicing **real-world vulnerability testing**
+- Growing as a **developer & security expert**
 
 ---
 
