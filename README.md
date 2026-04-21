@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sakib+Ahmed;Full+Stack+Developer;Web+App+Pentester" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0070b8 &size=26&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sakib+Ahmed;Full+Stack+Developer;Web+App+Pentester" />
 </p>
 
 
