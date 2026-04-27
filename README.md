@@ -73,7 +73,7 @@ Full-Stack Developer | Web Application Pentester
 
 - Working with **JS, TS, React, Node, Express, MongoDB, SQL & AWS**
 - Exploring **Golang, Blockchain, Rust, Solidity, Solana**
-- Reach me at: **sakib.prf@gmail.com**
+- Reach me at: **contact@sahmsec.com**
 
 ---
 
