@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img width="2043" height="770" alt="Sakib Ahmed" src="https://github.com/user-attachments/assets/8d7deaf0-c060-4e5b-8e61-300e2101da03" />
+  <img width="2042" height="770" alt="sakib ahmed" src="https://github.com/user-attachments/assets/19cca388-929d-446a-a4e0-7f4321d9db18" />
 </p>
 
 <!-- Typing Animation -->
