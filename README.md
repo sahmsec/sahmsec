@@ -19,16 +19,16 @@
 Full-Stack Developer | Web Application Pentester
 </h3>
 
-<p align="center">
-  <b>Recruiters can view my best projects below or contact me on <a href="https://linkedin.com/in/sahmsec">LinkedIn</a>.</b>
-</p>
-
 ---
 
 ## Connect With Me
 
 <p align="center">
 <a href="https://sahmsec.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a><a href="https://linkedin.com/in/sahmsec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/sahmsec" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://instagram.com/fromninetynine" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><a href="https://www.facebook.com/sahmsec/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a><a href="https://x.com/sahmsec_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" /></a><a href="mailto:sakib.prf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <b>I am open to Full-Stack, MERN, Frontend, and Remote roles. Feel free to explore my featured projects below or reach out!</b>
 </p>
 
 ---
@@ -38,14 +38,15 @@ Full-Stack Developer | Web Application Pentester
 - **Full-Stack Developer** with professional experience building React.js, Next.js, TypeScript, and Node.js applications.
 - Building **scalable full-stack web applications** with a strong focus on **web application security & penetration testing**.
 - Experienced in authentication systems, REST API integration, dashboard development, and secure web solutions.
+- **Open To:** Full-Stack Developer, Junior Frontend, MERN Stack, or Remote roles.
 - I don’t just build apps — I **secure them**.
 
 ---
 
 ## Tech Stack & Tools
 
-**Frontend & Styling**
-<p align="left">
+<p align="center"><b>Frontend & Styling</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -59,8 +60,8 @@ Full-Stack Developer | Web Application Pentester
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-**Backend & Database**
-<p align="left">
+<p align="center"><b>Backend & Database</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -69,8 +70,8 @@ Full-Stack Developer | Web Application Pentester
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
 </p>
 
-**Languages & Cloud**
-<p align="left">
+<p align="center"><b>Languages & Cloud</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -78,8 +79,8 @@ Full-Stack Developer | Web Application Pentester
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
-**AI & Workflow**
-<p align="left">
+<p align="center"><b>AI & Workflow</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-F27A59?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
