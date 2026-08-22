@@ -136,29 +136,6 @@ Full-Stack Developer | Web Application Pentester
 
 ---
 
-## Current Focus
-
-- **TypeScript & Next.js:** Developing type-safe, high-performance web applications.
-- **Security & Pentesting:** Practicing real-world vulnerability testing and secure coding methodologies.
-- **Backend Architecture:** Designing robust REST APIs and event-driven MERN stack solutions.
-- **AI-Driven Development:** Utilizing ChatGPT, Copilot, and Cursor to maximize workflow efficiency.
-
----
-
-## Currently Exploring
-
-- Diving into **Golang, Rust, and Systems Programming**
-- Exploring **Blockchain, Web3, Solidity, and Solana**
-
----
-
-## Interests
-
-- Participating in CTF (Capture The Flag) challenges and Hackathons
-- Exploring Open Source projects and emerging web technologies
-- Engaging with Tech communities and solving complex engineering problems
-
----
 
 ## Dev Philosophy
 
