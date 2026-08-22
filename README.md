@@ -35,7 +35,7 @@ Full-Stack Developer | Web Application Pentester
 
 ## About Me
 
-- Full-Stack Developer with 3+ years of professional experience building React.js, Next.js, TypeScript, and Node.js applications.
+- Full-Stack Developer with 3+ years of professional experience building applications.
 - Web application penetration tester. I test applications against the OWASP Top 10 using Burp Suite.
 - Experienced in authentication systems, REST API integration, dashboard development, and secure coding.
 - Open to: Full-Stack Developer, Frontend Developer, MERN Stack Developer, and Remote roles. Working in the UTC+6 timezone.
