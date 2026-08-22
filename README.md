@@ -28,114 +28,55 @@ Full-Stack Developer | Web Application Pentester
 </p>
 
 <p align="center">
-  <b>I am open to Full-Stack, MERN, Frontend, and Remote roles. Feel free to explore my featured projects below or reach out!</b>
+  <b>I am open to Full-Stack, MERN, Frontend, and Remote roles. Check out my pinned repositories below or reach out!</b>
 </p>
 
 ---
 
 ## About Me
 
-- **Full-Stack Developer** with professional experience building React.js, Next.js, TypeScript, and Node.js applications.
-- Building **scalable full-stack web applications** with a strong focus on **web application security & penetration testing**.
-- Experienced in authentication systems, REST API integration, dashboard development, and secure web solutions.
-- **Open To:** Full-Stack Developer, Junior Frontend, MERN Stack, or Remote roles.
-- I don’t just build apps — I **secure them**.
+- Full-Stack Developer with 3+ years of professional experience building React.js, Next.js, TypeScript, and Node.js applications.
+- Web application penetration tester. I test applications against the OWASP Top 10 using Burp Suite.
+- Experienced in authentication systems, REST API integration, dashboard development, and secure coding.
+- Open to: Full-Stack Developer, Frontend Developer, MERN Stack Developer, and Remote roles. Working in the UTC+6 timezone.
+
+> I don't just build apps. I secure them.
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack
 
-<p align="center"><b>Frontend & Styling</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
+**Languages:** JavaScript, TypeScript, C#, Python
 
-<p align="center"><b>Backend & Database</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-</p>
+**Frontend:** React.js, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS, shadcn/ui
 
-<p align="center"><b>Languages & Cloud</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
+**Backend:** Node.js, Express.js, ASP.NET Core, REST APIs
 
-<p align="center"><b>AI & Workflow</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-F27A59?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge&logo=huggingface&logoColor=white" alt="Prompt Engineering" />
-</p>
+**Databases:** MongoDB, PostgreSQL, Firebase
 
-<details>
-<summary><b>🛠️ Click to see all my libraries, tools & concepts</b></summary>
-<br/>
+**Authentication:** JWT, OAuth 2.0, Better Auth, role-based access control
 
-- **React & Frontend:** React.js, Next.js, Redux Toolkit, React Router, Context API, TanStack Query, React Hook Form
-- **Backend & MERN Stack:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, GraphQL
-- **Auth & Security:** JWT Authentication, Firebase, OAuth, Role-based UI, Protected routes, Server-side validation
-- **App Features:** CRUD applications, Dashboards, E-commerce, Booking apps, Task management, Pagination, Filtering, Search
-- **Deployment & Hosting:** Vercel, Render, Netlify, AWS
-- **Web Standards:** Responsive design, Accessibility (a11y), SEO basics, Full-Stack Architecture
+**Security Testing:** Burp Suite, OWASP Top 10, secure code review
 
-</details>
+**Cloud and Deployment:** AWS, Vercel, Render
 
 ---
 
-## Security Expertise
+## Security Work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Pentesting-8B0000?style=for-the-badge" alt="Web Pentesting" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Secure_Coding-6A0DAD?style=for-the-badge" alt="Secure Coding" />
-  <img src="https://img.shields.io/badge/Burp_Suite-F47C20?style=for-the-badge" alt="Burp Suite" />
-</p>
+- Test web applications against the OWASP Top 10 using Burp Suite.
+- Focus on authentication and access control: token handling, session lifecycle, OAuth flows, and role-based permissions.
+- Apply secure coding practices such as server-side validation, least-privilege data access, and keeping secrets out of client bundles.
 
 ---
 
-## Featured Projects
+## How I Work
 
-| Project | Live | Repository | Tech Stack | Highlights |
-|---|---|---|---|---|
-| **Velora** | [Live](https://velora-lemon-three.vercel.app) | [GitHub](https://github.com/sahmsec/velora) | Next.js, React.js, Tailwind, MongoDB | Premium eyewear e-commerce platform with secure auth (Better Auth, Google OAuth) and shopping cart. |
-| **Luxen** | [Live](https://luxen-nu.vercel.app) | [GitHub](https://github.com/sahmsec/luxen) | Next.js, React.js, Tailwind, MongoDB | Responsive eyewear e-commerce platform with product browsing and scalable frontend architecture. |
-| **DocAppoint** | [Live](https://docappoint-psi.vercel.app) | [UI](https://github.com/sahmsec/docappoint-ui) / [Server](https://github.com/sahmsec/docappoint-server) | React.js, Node.js, Express.js, MongoDB | Healthcare appointment booking with JWT authentication, protected routes, and dashboards. |
-| **AWS Institute** | [Live](https://arenawebsecurity.edu.bd) | [GitHub](https://github.com/sahmsec/awsiot-final) | React.js, JavaScript, Tailwind CSS | Educational management website focused on structured course presentation and mobile-first design. |
+- **API-first development.** I define the contract first, then build the client and server against it. Validation runs on the server, not only in the form.
+- **Component-driven UI.** Modular, reusable React components built with Tailwind CSS and shadcn/ui.
+- **Clean workflows.** Readable Git history, documented setup, and mobile-first responsive layouts.
 
 ---
-
-## Engineering Practices & Architecture
-
-- **Secure API Design:** Implementing robust data fetching and mutation workflows with API-First thinking.
-- **System Architecture:** Experience with Microservices, Event-Driven Systems, and Scalable Web Platforms.
-- **Component-Based UI:** Building modular, reusable frontend architectures using React, Tailwind CSS, and shadcn/ui.
-- **Quality & Workflows:** Prioritizing clean Git workflows, comprehensive documentation, and responsive, mobile-first layouts.
-
----
-
 
 ## Dev Philosophy
 
