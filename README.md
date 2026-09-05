@@ -89,7 +89,7 @@ Full-Stack Developer | Web Application Pentester
 ```javascript
 const sakibAhmed = {
   alias: "sahmsec",
-  role: "Full Stack Developer & Pentester",
+  role: "Software Developer & Pentester",
   stack: ["MERN", "Next.js", "PostgreSQL", "AWS"],
   languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "C"],
   security: ["Pentesting", "OWASP", "Secure Coding"],
