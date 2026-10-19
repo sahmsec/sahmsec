@@ -1,82 +1,55 @@
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sahmsec&label=Profile%20views&color=0e75b6&style=flat" alt="sahmsec" />
-</p>
+# Sakib Ahmed
 
-<!-- Banner -->
-<p align="center">
-  <img width="2042" height="770" alt="sakib ahmed" src="https://github.com/user-attachments/assets/19cca388-929d-446a-a4e0-7f4321d9db18" />
-</p>
+**Software Developer & Pentester** · `sahmsec`
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0070b8&size=26&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sakib+Ahmed;Full+Stack+Developer;Web+App+Pentester" alt="Typing Intro" />
-</p>
+I work across software development, application security, and delivery.
 
-<h1 align="center">Sakib Ahmed (sahmsec)</h1>
+I'm a software developer with 3+ years of professional experience building and delivering software across different stacks and environments. My work spans application development, systems integration, and DevOps. I focus on understanding the problem, making sound technical decisions, and keeping systems maintainable and secure as they evolve.
 
-<h3 align="center">
-Full-Stack Developer | Web Application Pentester
-</h3>
+## Selected Work
 
----
+- **[Searchaly Boost](https://github.com/sahmsec/conversion-app)** — A Shopify app combining five conversion widgets in one dashboard. Shared settings sync from PostgreSQL to Shopify metafields, keeping storefront widgets independent of per-page app backend requests.
+- **[Cleo](https://github.com/sahmsec/cleo-sqli)** — A desktop learning tool for authorized MySQL security testing, with self-contained packages and guided installation across Windows, macOS, Linux, and Chromebook. [Latest release](https://github.com/sahmsec/cleo-sqli/releases/latest).
+- **[IntelFlow Pro](https://github.com/sahmsec/intelflow)** — A competitive intelligence application with workspace-scoped data, AI-assisted reports, and Stripe subscription integration. [View application](https://intelflow-mu.vercel.app).
 
-## Connect With Me
+## What I Do
 
-<p align="center">
-<a href="https://sahmsec.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a><a href="https://linkedin.com/in/sahmsec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/sahmsec" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://instagram.com/fromninetynine" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><a href="https://www.facebook.com/sahmsec/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a><a href="https://x.com/sahmsec_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" /></a><a href="mailto:sakib.prf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <b>I am open to Full-Stack, MERN, Frontend, and Remote roles. Check out my pinned repositories below or reach out!</b>
-</p>
-
----
-
-## About Me
-
-- Full-Stack Developer with 3+ years of professional experience building applications.
-- Web application penetration tester. I test applications against the OWASP Top 10 using Burp Suite.
-- Experienced in authentication systems, REST API integration, dashboard development, and secure coding.
-- Open to: Full-Stack Developer, Frontend Developer, MERN Stack Developer, and Remote roles. Working in the UTC+6 timezone.
-
-> I don't just build apps. I secure them.
-
----
+- **Software development:** Build and extend applications, services, and integrations, working across the stack and adapting to the needs of the project.
+- **Delivery & operations:** Work across development, deployment, and troubleshooting, connecting application decisions with the environments they run in.
+- **Application security:** Test web applications against the OWASP Top 10 using Burp Suite, review code, and apply findings to the systems I build.
 
 ## Tech Stack
 
-**Languages:** JavaScript, TypeScript, C#, Python
-
-**Frontend:** React.js, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS, shadcn/ui
-
-**Backend:** Node.js, Express.js, ASP.NET Core, REST APIs
-
-**Databases:** MongoDB, PostgreSQL, Firebase
-
-**Authentication:** JWT, OAuth 2.0, Better Auth, role-based access control
-
-**Security Testing:** Burp Suite, OWASP Top 10, secure code review
-
-**Cloud and Deployment:** AWS, Vercel, Render
-
----
-
-## Security Work
-
-- Test web applications against the OWASP Top 10 using Burp Suite.
-- Focus on authentication and access control: token handling, session lifecycle, OAuth flows, and role-based permissions.
-- Apply secure coding practices such as server-side validation, least-privilege data access, and keeping secrets out of client bundles.
-
----
+| Area | Technologies |
+| :--- | :--- |
+| Languages | JavaScript, TypeScript, C#, Python |
+| Frontend | React, Next.js, Redux Toolkit, TanStack Query, Tailwind CSS, shadcn/ui |
+| Backend | Node.js, Express.js, ASP.NET Core, REST APIs |
+| Databases | MongoDB, PostgreSQL, Firebase |
+| Authentication | JWT, OAuth 2.0, Better Auth, role-based access control |
+| Security | Burp Suite, OWASP Top 10, secure code review |
+| Cloud | AWS, Microsoft Azure, Vercel |
+| DevOps | Deployment workflows, environment configuration, operational troubleshooting |
 
 ## How I Work
 
-- **API-first development.** I define the contract first, then build the client and server against it. Validation runs on the server, not only in the form.
-- **Component-driven UI.** Modular, reusable React components built with Tailwind CSS and shadcn/ui.
-- **Clean workflows.** Readable Git history, documented setup, and mobile-first responsive layouts.
+- **Understand the problem first.** Clarify requirements, constraints, and tradeoffs before choosing an approach or a stack.
+- **Design for change.** Keep boundaries clear, interfaces predictable, and code easy to understand and extend.
+- **Follow the work through delivery.** Consider integration, deployment, and ongoing operation as part of development.
+- **Build security into the process.** Review trust boundaries, validate inputs, and enforce appropriate access from the start.
 
----
+## Let's Connect
+
+I'm open to **software development and engineering opportunities** where I can contribute across development, security, and delivery. Remote-friendly, working in **UTC+6**.
+
+Find me on [Discord](https://discord.com/users/767473720179687444), [Instagram](https://instagram.com/fromninetynine), [Facebook](https://www.facebook.com/sahmsec/), and [X](https://x.com/sahmsec_).
+
+<p align="left">
+  <a href="https://sahmsec.com"><img src="assets/buttons/portfolio.svg" height="40" alt="Visit my portfolio" /></a>
+  <a href="https://github.com/sahmsec?tab=repositories"><img src="assets/buttons/projects.svg" height="40" alt="Explore my repositories" /></a>
+  <a href="https://linkedin.com/in/sahmsec"><img src="assets/buttons/linkedin.svg" height="40" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sakibahmedsadhin@gmail.com"><img src="assets/buttons/email.svg" height="40" alt="Email Sakib Ahmed" /></a>
+</p>
 
 ## Dev Philosophy
 
@@ -98,3 +71,7 @@ const sakibAhmed = {
   mission: "Build scalable and secure web applications with high-quality user experiences",
 };
 ```
+
+## Other Questions
+
+For opportunities, collaborations, or other questions, write to [sakibahmedsadhin@gmail.com](mailto:sakibahmedsadhin@gmail.com).
