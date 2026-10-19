@@ -14,9 +14,9 @@ I'm a software developer with 3+ years of professional experience building and d
 
 ## What I Do
 
-- **Software development:** Build and extend applications, services, and integrations, working across the stack and adapting to the needs of the project.
-- **Delivery & operations:** Work across development, deployment, and troubleshooting, connecting application decisions with the environments they run in.
-- **Application security:** Test web applications against the OWASP Top 10 using Burp Suite, review code, and apply findings to the systems I build.
+- **Software development:** Build, extend, and maintain applications, services, and integrations across different stacks.
+- **Deployment & operations:** Configure environments, manage deployments, and troubleshoot application and infrastructure issues.
+- **Application security:** Assess web applications against the OWASP Top 10 using Burp Suite and secure code review.
 
 ## Tech Stack
 
@@ -33,10 +33,10 @@ I'm a software developer with 3+ years of professional experience building and d
 
 ## How I Work
 
-- **Understand the problem first.** Clarify requirements, constraints, and tradeoffs before choosing an approach or a stack.
-- **Design for change.** Keep boundaries clear, interfaces predictable, and code easy to understand and extend.
-- **Follow the work through delivery.** Consider integration, deployment, and ongoing operation as part of development.
-- **Build security into the process.** Review trust boundaries, validate inputs, and enforce appropriate access from the start.
+- **Start with context.** Understand the expected outcome, existing system, and constraints before choosing tools or proposing changes.
+- **Make tradeoffs explicit.** Explain decisions in terms of complexity, reliability, and long-term maintenance.
+- **Keep changes reviewable.** Work in focused increments and verify the behavior affected by each change.
+- **Leave a clear handover.** Document setup, important decisions, and known limitations so others can continue the work.
 
 ## Let's Connect
 
