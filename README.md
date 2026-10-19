@@ -9,8 +9,8 @@ I'm a software developer with 3+ years of professional experience building and d
 ## Selected Work
 
 - **[Searchaly Boost](https://github.com/sahmsec/conversion-app)** — A Shopify app combining five conversion widgets in one dashboard. Shared settings sync from PostgreSQL to Shopify metafields, keeping storefront widgets independent of per-page app backend requests.
-- **[Cleo](https://github.com/sahmsec/cleo-sqli)** — A desktop learning tool for authorized MySQL security testing, with self-contained packages and guided installation across Windows, macOS, Linux, and Chromebook. [Latest release](https://github.com/sahmsec/cleo-sqli/releases/latest).
-- **[IntelFlow Pro](https://github.com/sahmsec/intelflow)** — A competitive intelligence application with workspace-scoped data, AI-assisted reports, and Stripe subscription integration. [View application](https://intelflow-mu.vercel.app).
+- **[Cleo](https://github.com/sahmsec/cleo-sqli)** — A desktop learning tool for authorized MySQL security testing, with self-contained packages and guided installation across Windows, macOS, Linux, and Chromebook.
+- **[IntelFlow Pro](https://github.com/sahmsec/intelflow)** — A competitive intelligence application with workspace-scoped data, AI-assisted reports, and Stripe subscription integration.
 
 ## What I Do
 
